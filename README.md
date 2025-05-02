@@ -1,5 +1,5 @@
 Pi Normality Experiment
-This project aims to explore the distribution of digits in the infinite decimal expansion of π. Inspired by a scene in Good Will Hunting, where the protagonist attempts to find hidden patterns in π, this experiment uses Python to analyze and visualize the frequencies of digits and triplets within the first 1 million digits of π.
+This project aims to explore the distribution of digits in the infinite decimal expansion of π. Inspired by a scene in Person of Interest, this experiment uses Python to analyze and visualize the frequencies of digits and triplets within the first 1 million digits of π.
 
 Files Included
 
