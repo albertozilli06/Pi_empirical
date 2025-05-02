@@ -2,13 +2,14 @@ Pi Normality Experiment
 This project aims to explore the distribution of digits in the infinite decimal expansion of π. Inspired by a scene in Good Will Hunting, where the protagonist attempts to find hidden patterns in π, this experiment uses Python to analyze and visualize the frequencies of digits and triplets within the first 1 million digits of π.
 
 Files Included
+
 pi_generator.py
 This file generates the first 1 million digits of π and saves them in a .txt file (pi_1million.txt). The user can customize the number of digits or choose a different file if needed.
 
-pi_normal.py
+pi_count.py
 This script analyzes the frequency distribution of individual digits (0-9) in the 1 million digits of π. It visualizes the results as a bar chart.
 
-pi_triplet.py
+pi_count_triplets.py
 In this script, users can input up to 10 three-digit triplets (e.g., "125", "842", "746"). It calculates and plots the frequency of each triplet's occurrence in the 1 million digits of π.
 
 pi_segments.py
